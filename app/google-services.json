@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "460787888015",
+    "firebase_url": "https://technothrone-9a72a.firebaseio.com",
+    "project_id": "technothrone-9a72a",
+    "storage_bucket": "technothrone-9a72a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:460787888015:android:59075b5960607d29b5a5fa",
+        "android_client_info": {
+          "package_name": "com.example.technothrone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "460787888015-hh2aohbg1qn5k1442lcpehje4v50g99g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6BcSFdKa-Ja_rhIdPqazeUwtoVzaKtWc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "460787888015-hh2aohbg1qn5k1442lcpehje4v50g99g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
